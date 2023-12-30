@@ -1,0 +1,17 @@
+[
+  {
+    "_id": 1001,
+    "isbn": "1234",
+    "title": "Book 1",
+    "page_count": 145,
+    "author": {
+      "name": "FN1 LN1",
+      "_id": 2001
+    },
+    "publisher": {
+      "name": "Penguin Books",
+      "_id": 3001
+    },
+    "review": [1,2,3]
+  }
+]

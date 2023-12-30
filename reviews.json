@@ -1,0 +1,17 @@
+[
+  {
+    "_id": 1,
+    "book_id": 1001,
+    "review_content": "Good book, I liked it."
+  },
+  {
+    "_id": 2,
+    "book_id": 1001,
+    "review_content": "Good book, I liked it very much."
+  },
+  {
+    "_id": 3,
+    "book_id": 1001,
+    "review_content": "Good book, I liked it so much."
+  }
+]
